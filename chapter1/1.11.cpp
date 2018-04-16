@@ -3,7 +3,7 @@
 int main()
 {
 	int i, j;
-	std::cout << "Input two integer" << std::endl;			//打印指定范围内整数
+	std::cout << "Input two integer" << std::endl;			//print integers in range
 	std::cin >> i >> j;
 
 	while (i != j)
