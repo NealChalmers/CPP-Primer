@@ -3,7 +3,7 @@
 
 int main()
 {
-	Sales_item item;				//读取销售记录并输出
+	Sales_item item;				//read and output the sales item
 	std::cin >> item;
 	std::cout << item << std::endl;
 }
