@@ -6,7 +6,7 @@
 int main()
 {
 	Sales_item fitem;
-	if (std::cin >> fitem)				//统计每个ISBN销售记录条数
+	if (std::cin >> fitem)				//Count each ISBN sales record
 	{
 		int count = 1;
 		Sales_item titem;

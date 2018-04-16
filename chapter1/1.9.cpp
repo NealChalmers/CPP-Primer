@@ -3,7 +3,7 @@
 int main()
 {
 	int j = 0, i = 50;
-	while (i <= 100)				//whileÀÛ¼Ó
+	while (i <= 100)				//while accumulation
 	{
 		j += i;
 		++i;
